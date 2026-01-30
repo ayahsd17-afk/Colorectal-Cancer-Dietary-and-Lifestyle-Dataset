@@ -2,7 +2,7 @@
 Correlation Analysis and Hypothesis Testing on Health and Lifestyle Factors
 
 ##  Project Overview
-This project analyzes how lifestyle behaviors—such as smoking, exercise habits, and dietary patterns—relate to health indicators including BMI, cholesterol levels, and sleep duration.  
+This project analyzes how lifestyle behaviors—such as smoking, exercise habits, and dietary patterns—relate to health indicators including BMI,and cholesterol levels.  
 Through exploratory data analysis (EDA), hypothesis testing, and correlation analysis, the project aims to identify factors that influence health outcomes based on real-world data.
 
 ---
@@ -22,8 +22,7 @@ Kaggle
 Main variables:
 - BMI  
 - Smoking status  
-- Exercise frequency  
-- Sleep duration  
+- Exercise frequency   
 - Cholesterol levels  
 - Daily calorie intake  
 
