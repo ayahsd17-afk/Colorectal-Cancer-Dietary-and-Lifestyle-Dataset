@@ -82,5 +82,5 @@ Age × CRC_Risk
 ・Lifestyle, BMI, and age were all significantly associated with colorectal cancer risk.
 ・ The strength of association followed the order: Lifestyle > BMI > Age, indicating that lifestyle factors had the strongest relationship with CRC risk.
 ・ANOVA results showed no BMI differences across lifestyle groups,  
-    → suggesting that the influence of lifestyle on CRC risk may operate independently of BMI rather than through BMI as a 　　　　　mediating factor.
+    → suggesting that the influence of lifestyle on CRC risk may operate independently of BMI rather than through BMI as a mediating factor.
 
